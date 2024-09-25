@@ -1,0 +1,181 @@
+{
+  "book-room": [
+    {
+      "id": "14c2",
+      "time": "10 giờ",
+      "fullName": "Hoà Nguyễn",
+      "phone": "0967371856",
+      "email": "nguyenhoa010904@gmail.com",
+      "sevice": [
+        "Thuê xe máy",
+        "Thuê xe ô tô 4 chỗ"
+      ],
+      "gilf": "Mũ",
+      "date": [
+        "30/09/2024",
+        "22/10/2024"
+      ]
+    },
+    {
+      "id": "cca5",
+      "time": "11 giờ",
+      "fullName": "Hoà Nguyễn",
+      "email": "nguyenhoa010904@gmail.com",
+      "phone": "0967371856",
+      "sevice": [
+        "Thuê xe máy",
+        "Thuê xe ô tô 4 chỗ"
+      ],
+      "gilf": "Quần áo",
+      "date": [
+        "23/09/2024",
+        "23/10/2024"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "c348",
+      "name": "khanhvip123",
+      "qualityPeople": 4,
+      "qualityBed": 2,
+      "description": "Phòng đôi",
+      "utils": [
+        "nóng lạnh"
+      ],
+      "status": false,
+      "typeRoom": true
+    },
+    {
+      "id": "2462",
+      "name": "Phòng 123",
+      "qualityPeople": 22,
+      "qualityBed": 4,
+      "description": "1",
+      "utils": [
+        "Điều hòa",
+        "điều hòa",
+        "nóng lạnh",
+        "wifi"
+      ],
+      "status": true,
+      "typeRoom": false
+    },
+    {
+      "id": "3806",
+      "name": "Hoà Nguyễn",
+      "qualityPeople": 3,
+      "qualityBed": 2,
+      "description": "122",
+      "utils": [
+        "Điều hòa",
+        "wifi"
+      ],
+      "status": false,
+      "typeRoom": true
+    },
+    {
+      "id": "61e5",
+      "name": "Nguyễn Minh Hòa",
+      "qualityPeople": 12,
+      "qualityBed": 3,
+      "description": "phòng đôi",
+      "utils": [
+        "Điều hòa",
+        "wifi",
+        "nóng lạnh"
+      ],
+      "status": true,
+      "typeRoom": false
+    },
+    {
+      "id": "7d17",
+      "name": "khanhvip132",
+      "qualityPeople": 4,
+      "qualityBed": 2,
+      "description": "phòng đẹp,rẻ,thiu",
+      "utils": [
+        "Điều hòa",
+        "điều hòa"
+      ],
+      "typeRoom": false
+    }
+  ],
+  "dataChart":[
+    {
+      "date":"01-2024",
+      "quanlity":200
+    },
+    {
+      "date":"02-2024",
+      "quanlity":250
+    },
+    {
+      "date":"03-2024",
+      "quanlity":500
+    },
+    {
+      "date":"04-2024",
+      "quanlity":399
+    },
+    {
+      "date":"05-2024",
+      "quanlity":873
+    },
+    {
+      "date":"06-2024",
+      "quanlity":809
+    },
+    {
+      "date":"07-2024",
+      "quanlity":300
+    },
+    {
+      "date":"08-2024",
+      "quanlity":900
+    },
+    {
+      "date":"09-2024",
+      "quanlity":1299
+    },
+    {
+      "date":"10-2024",
+      "quanlity":2600
+    },
+    {
+      "date":"11-2024",
+      "quanlity":100
+    },
+    {
+      "date":"12-2024",
+      "quanlity":600
+    }
+  ],
+  "pie":[
+   
+    {
+      "type":"Loai 1",
+      "value":27
+    },
+    {
+      "type":"Loai 2",
+      "value":25
+    },
+    {
+      "type":"Loai 3",
+      "value":18
+    },
+    {
+      "type":"Loai 4",
+      "value":15
+    },
+    {
+      "type":"Loai 5",
+      "value":10
+    },
+    {
+      "type":"Loai 6",
+      "value":5
+    }
+  ]
+}
